@@ -1,0 +1,22 @@
+body{
+background: radial-gradient(circle,#E2C2B9,#F1F7E7);
+font-family: arial,helvetica, sans-serif;
+}
+div{
+  vertical-align:middle;
+  display: inline;
+}
+h2{
+  font-size:3em;
+  text-align:center;
+  background: radial-gradient(circle,#F1F7E7,#E2C2B9);
+}
+hr{
+  border: none;
+  border-top: 7px dotted;
+  width: 30%;
+  border-color:grey
+}
+img {
+  border-radius: 15px;
+}
