@@ -1,0 +1,38 @@
+ h1{
+   font-size: 3em;
+
+ }
+h2{
+  font-size: 2em;
+}
+h3 h4{
+  font-size: 1.5em;
+}
+
+.container{
+  background-color: grey;
+  width: 400px;
+  height: 400px;
+  position: relative;
+}
+
+.top{
+  background-color: lavender;
+  width:200px;
+  height: 200px;
+  position:absolute;
+  right: 50px;
+}
+.mid{
+  background-color: aliceblue;
+  width: 300px;
+  height: 300px;
+  position:static;
+
+}
+.bot{
+  background-color: ivory;
+  width: 600px;
+  height: 600px;
+  position: static;
+}

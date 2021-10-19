@@ -1,0 +1,21 @@
+.texto1{
+  background-color: lemonchiffon;
+  width: 200px;
+  border: 10px solid;
+  padding: 20px;
+
+  }
+.texto2{
+  background-color: lavender;
+  width: 200px;
+  border: 10px solid;
+  padding: 20px;
+  margin-left: 260px;
+  }
+.texto3{
+  background-color:lightsalmon;
+  width: 200px;
+  border: 10px solid;
+  margin-left: 520px;
+  padding: 20px;
+}
