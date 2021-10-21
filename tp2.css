@@ -1,0 +1,27 @@
+body
+
+header{
+  background-color:red;
+  height: 200px;
+  width: auto;
+}
+nav{
+  background-color:blue
+  height: 50px;
+  width: auto;
+}
+section{
+  background-color:green;
+  height: 200px;
+  width: auto;
+}
+aside{
+  background-color:blue;
+  height: 200px;
+  width: auto;
+}
+footer{
+  background-color: green;
+  height:200px;
+  width:auto;
+}
