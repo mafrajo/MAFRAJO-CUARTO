@@ -1,0 +1,21 @@
+
+
+header{
+  background-color:lemonchiffon;
+  height: 100px;
+  width:auto;
+position: absolute;
+padding: 4px;
+
+}
+
+table{
+  background-color: lavender;
+  width: 700px;
+  height: 700px;
+  position:absolute;
+}
+ img{
+    margin-top: 100px;
+     padding: 50px;
+ }
