@@ -1,10 +1,9 @@
 
 
 header{
-  background-color:lemonchiffon;
+  background-color:
   height: 100px;
-  width:auto;
-padding: 4px;
+  padding: 4px;
 
 }
 
@@ -29,4 +28,10 @@ article p {
   display: inline-block;
   width: 40%;
   height: 250px;
+}
+span{
+  background-color:#71DFE7;
+}
+body{
+  background-color: #F9F3DF;
 }
